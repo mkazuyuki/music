@@ -1,5 +1,5 @@
 //
-// What if the product name CLUSTERPRO map to MIDI notes?
+// What if the string "CLUSTERPRO" maps to MIDI notes?
 //
 // 2025.07.31 Miyamoto Kazuyuki
 
